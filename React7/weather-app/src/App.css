@@ -1,0 +1,14 @@
+body {
+  background-color: #f0f8ff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 2rem;
+  color: #4a90e2;
+}
+input, button {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
